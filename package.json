@@ -1,5 +1,5 @@
 {
-  "name": "html-bake",
+  "name": "@limbusfoundation/htmlbake",
   "types": "dist/html-bake.d.ts",
   "version": "1.0.2",
   "description": "Html Forge",
