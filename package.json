@@ -1,0 +1,33 @@
+{
+  "name": "html-bake",
+  "types": "dist/html-bake.d.ts",
+  "version": "1.0.0",
+  "description": "Html Forge",
+  "keywords": [
+    "html-bake",
+    "bake",
+    "html-forge",
+    "html"
+  ],
+  "homepage": "https://github.com/Limbus-Foundation/html-bake#readme",
+  "bugs": {
+    "url": "https://github.com/Limbus-Foundation/html-bake/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limbus-Foundation/html-bake.git"
+  },
+  "license": "MIT",
+  "author": "Limbus Foundation",
+  "type": "commonjs",
+  "main": "dist/html-bake.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "node example/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
+}
