@@ -1,4 +1,4 @@
-<img width="100%" alt="html-bake-github-banner" src="https://github.com/user-attachments/assets/fcf930ee-3fe8-48be-89ae-3bbf7d042679" />
+<img width="100%" alt="html-bake-repo-banner" src="https://github.com/user-attachments/assets/51233fe4-7935-49b1-a293-f0fda23daa4d" />
 
 # HTML BAKE
 
